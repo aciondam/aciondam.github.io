@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aciondam.github.io/sitemap.aciondam.gz
+Sitemap: https://aciondam.github.io/app/sitemap.aciondam.gz
+Sitemap: https://aciondam.github.io/assets/sitemap.aciondam.gz
+Sitemap: https://aciondam.github.io/css/sitemap.aciondam.gz
+Sitemap: https://aciondam.github.io/data/sitemap.aciondam.gz
+Sitemap: https://aciondam.github.io/includes/sitemap.aciondam.gz
+Sitemap: https://aciondam.github.io/item/sitemap.aciondam.gz
+Sitemap: https://aciondam.github.io/src/sitemap.aciondam.gz
